@@ -47,9 +47,11 @@ GitHub Link: [GitHub](https://github.com/Talha636)
 Email: [Email](mailto:mtalhalatif@hotmail.com)
 
 ## Screenshots
-
+Homepage
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 10" src="https://user-images.githubusercontent.com/85548877/140248136-bf58a027-3cc3-40cf-9fae-7b51fa9ad6df.png">
+Notes Page
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 29" src="https://user-images.githubusercontent.com/85548877/140248138-7917f728-bf5b-4b9b-8b17-a543581320b3.png">
+404 Page
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 58" src="https://user-images.githubusercontent.com/85548877/140248139-23fbe982-1477-4b29-ac6c-4b8327602b30.png">
 
 ## Deployed Link
