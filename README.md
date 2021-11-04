@@ -1,5 +1,15 @@
 # 11 Express.js: Note Taker
 
+## Table of Contents
+
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
+- [Screenshots](#Screenshots)
+- [Deployed Link](#Deployed-Link)
+
 ## User Story
 
 AS A small business owner
@@ -22,45 +32,26 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Mock-Up
+## License
 
-The following images show the web application's appearance and functionality:
+None
 
-## Getting Started
+## Contributing
 
-On the back end, the application should include a `db.json` file that will be used to store and retrieve notes using the `fs` module.
+To contribute to this project, reach out to me first using the links in the Questions section below.
 
-The following HTML routes should be created:
+## Questions
 
-* `GET /notes` should return the `notes.html` file.
+Contact me with any questions about the project.
+GitHub Link: [GitHub](https://github.com/Talha636)
+Email: [Email](mailto:mtalhalatif@hotmail.com)
 
-* `GET *` should return the `index.html` file.
-
-The following API routes should be created:
-
-* `GET /api/notes` should read the `db.json` file and return all saved notes as JSON.
-parse/then read file 
-
-* `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).
-
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
-  * Application front end must connect to an Express.js back end.
-
-  * Application back end must store notes that have a unique id in a JSON file.
-
-  * Application must be deployed to Heroku.
+## Screenshots
 
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 10" src="https://user-images.githubusercontent.com/85548877/140248136-bf58a027-3cc3-40cf-9fae-7b51fa9ad6df.png">
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 29" src="https://user-images.githubusercontent.com/85548877/140248138-7917f728-bf5b-4b9b-8b17-a543581320b3.png">
 <img width="1440" alt="Screen Shot 2021-11-03 at 22 32 58" src="https://user-images.githubusercontent.com/85548877/140248139-23fbe982-1477-4b29-ac6c-4b8327602b30.png">
 
-## Review
+## Deployed Link
 
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README describing the project.
-
+https://notestakerpro.herokuapp.com/
